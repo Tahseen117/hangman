@@ -23,5 +23,5 @@ Look n feel:
       |
       |
 =========
-Number of letters in the chosen word: ['_', '_', '_', '_', '_', '_', '_']
+Number of letters in the chosen word: ['_', '_', '_', '_', '_', '_', '_', '_']
 Guess the letter :
