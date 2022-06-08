@@ -31,6 +31,7 @@ while "_" in display:
             lost=1
             print("You lose")
             print(art[p+1])
+            print (word)
             break
         print(art[p+1])
         p+=1
