@@ -1,6 +1,6 @@
-This is simple hangman game !! Enjoy!
+# This is simple hangman game !! Enjoy!
 
-Look n feel:
+## Look n feel:
 
 ```
  .----------------.  .----------------.  .-----------------. .----------------.  .----------------.  .----------------.  .-----------------.
